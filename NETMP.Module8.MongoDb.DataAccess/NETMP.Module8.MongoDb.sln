@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMP.Module8.MongoDb.DataAccess", "NETMP.Module8.MongoDb.DataAccess\NETMP.Module8.MongoDb.DataAccess.csproj", "{8AA14B87-617F-42E9-A219-4EA74B7AFD77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETMP.Module8.MongoDb.Tests", "NETMP.Module8.MongoDb.Tests\NETMP.Module8.MongoDb.Tests.csproj", "{69014C4D-29E5-4D8D-8735-2EF9749337A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AA14B87-617F-42E9-A219-4EA74B7AFD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA14B87-617F-42E9-A219-4EA74B7AFD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA14B87-617F-42E9-A219-4EA74B7AFD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA14B87-617F-42E9-A219-4EA74B7AFD77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69014C4D-29E5-4D8D-8735-2EF9749337A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69014C4D-29E5-4D8D-8735-2EF9749337A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69014C4D-29E5-4D8D-8735-2EF9749337A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69014C4D-29E5-4D8D-8735-2EF9749337A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B012224B-11AA-4E69-8308-6AFDD9359013}
+	EndGlobalSection
+EndGlobal
